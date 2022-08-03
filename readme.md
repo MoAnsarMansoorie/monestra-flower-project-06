@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/project--06-monestra-green)
 
-[Link of deploy live project]()
+[Link of deploy live project](https://monestraflower.netlify.app/)
 
 ![LCO](./view06.png)
 
